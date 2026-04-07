@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:spotify="http://www.spotify.com/ns/rss"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+
+  <channel>
+    <title>Test Valid Podcast</title>
+    <link>https://example.com/feed/matsui</link>
+    <language>ja</language>
+    <description>Test podcast with VOA spoken audio</description>
+
+    <itunes:author>tuongvule</itunes:author>
+    <itunes:type>episodic</itunes:type>
+
+    <!-- Episode 1 -->
+    <item>
+      <title>第481回</title>
+      <dcterms:valid>start=2026-04-01T13:00:00+09:00;</dcterms:valid>
+      <description>VOA spoken audio test</description>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>ep-481</guid>
+      <enclosure url="https://av.voanews.com/clips/VLE/2019/10/04/6309844c-ded9-4cd7-a076-f5c19f826c83.mp3"
+                 length="500000"
+                 type="audio/mpeg"/>
+    </item>
+
+    <!-- Episode 2 -->
+    <item>
+      <title>第481回 おまけ</title>
+      <spotify:access>
+        <entitlement name="paid"/>
+      </spotify:access>
+      <dcterms:valid>start=2026-04-01T13:00:00+09:00;</dcterms:valid>
+      <description>Bonus episode</description>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>ep-481-bonus</guid>
+      <enclosure url="https://av.voanews.com/clips/VLE/2019/11/26/1e4a9913-0ebe-47a3-bdbc-dff600148a3c.mp3"
+                 length="400000"
+                 type="audio/mpeg"/>
+    </item>
+
+    <!-- Episode 3 -->
+    <item>
+      <title>第480回</title>
+      <spotify:access>
+        <entitlement name="paid"/>
+      </spotify:access>
+      <dcterms:valid>start=2026-03-25T13:00:00+09:00;</dcterms:valid>
+      <description>Another spoken episode</description>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>ep-480</guid>
+      <enclosure url="https://av.voanews.com/clips/LERE/2013/12/29/a66e301f-9419-44e0-9e37-9af125dfc8cd.mp3"
+                 length="400000"
+                 type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>
