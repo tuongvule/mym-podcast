@@ -1,109 +1,109 @@
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:dcterms="http://purl.org/dc/terms/" version="2.0">
-<channel>
-<spotify:access>
-<partner id="5YM2XVX9dX6Rz4g5NeCEDL"/>
-</spotify:access>
-<itunes:owner>
-<itunes:name>Sample Spotify</itunes:name>
-<itunes:email>tuongvule@gmail.com</itunes:email>
-</itunes:owner>
-<image>
-<url>https://content-access.spotifycdn.com/podcasts/fake-oap-partner-podcast/fake.jpg</url>
-<title>Sample Spotify: Exploration and Insights</title>
-</image>
-<author>
-<![CDATA[ Sample Spotify ]]>
-</author>
-<copyright>
-<![CDATA[ © 2026 Sample Spotify ]]>
-</copyright>
-<language>
-<![CDATA[ JP ]]>
-</language>
-<itunes:author>Horizon Podcast Studio</itunes:author>
-<itunes:type>episodic</itunes:type>
-<title>The Daily Horizon: Exploration and Insights</title>
-<link>https://horizon-pod.com/shows/daily-horizon</link>
-<description type="html">
-<p>
-<span>
-For more information, visit:
-<a href="https://horizon-pod.com/details">https://horizon-pod.com/details</a>
-</span>
-</p>
-<p>Join our hosts as they explore daily life, modern technology, and global culture. Each episode brings a new perspective on how we interact with the world around us. Perfect for your morning commute or evening relaxation.</p>
-</description>
-<item>
-<title>Episode 177: Modern Living Standards</title>
-<dcterms:valid>start=2026-03-26T13:00:00+00:00;</dcterms:valid>
-<description type="html">
-<p>In this episode, we discuss the evolution of urban living and how digital tools are shaping our homes.</p>
-</description>
-<pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="false">
-<![CDATA[ auth_6355_gen_token_88bd19_v1 ]]>
-</guid>
-<enclosure url="https://storage.horizon-pod.com/audio/ep177_master_final.mp3" length="0" type="audio/mpeg"/>
-</item>
-<item>
-<title>Episode 177: [Extended Cut]</title>
-<spotify:access>
-<entitlement name="paid"/>
-</spotify:access>
-<dcterms:valid>start=2026-03-26T13:00:00+00:00;</dcterms:valid>
-<description type="html">
-<p>Exclusive behind-the-scenes content and additional interviews for our premium subscribers.</p>
-</description>
-<pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="false">
-<![CDATA[ auth_9cd8_premium_key_7bdb_v1 ]]>
-</guid>
-<enclosure url="https://storage.horizon-pod.com/audio/ep177_bonus_ex.mp3" length="0" type="audio/mpeg"/>
-</item>
-<item>
-<title>Episode 176: The Future of Remote Work</title>
-<spotify:access>
-<entitlement name="paid"/>
-</spotify:access>
-<dcterms:valid>start=2026-03-12T13:00:00+00:00;</dcterms:valid>
-<description type="html">
-<p>Exploring the pros and cons of the global shift towards distributed teams and remote productivity.</p>
-</description>
-<pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="false">
-<![CDATA[ auth_7f37_secure_id_28242601_v1 ]]>
-</guid>
-<enclosure url="https://storage.horizon-pod.com/audio/ep176_full_release.mp3" length="0" type="audio/mpeg"/>
-</item>
-<item>
-<title>Episode 176: Culinary Journeys through Asia</title>
-<spotify:access>
-<entitlement name="paid"/>
-</spotify:access>
-<dcterms:valid>start=2026-02-26T13:00:00+00:00;</dcterms:valid>
-<description type="html">
-<p>A deep dive into the spices and techniques that define East Asian cuisine.</p>
-</description>
-<pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="false">
-<![CDATA[ auth_0274_data_node_5fb8e98_v1 ]]>
-</guid>
-<enclosure url="https://storage.horizon-pod.com/audio/ep176_main_stream.mp3" length="0" type="audio/mpeg"/>
-</item>
-<item>
-<title>第164回</title>
-<spotify:access>
-<entitlement name="paid"/>
-</spotify:access>
-<dcterms:valid>start=2025-09-25T13:00:00+09:00;</dcterms:valid>
-<description type="html">
-<p>It could be worse! You could be in the economy.</p>
-</description>
-<pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
-<guid isPermaLink="false">
-<![CDATA[ auth_0296_data_node_5fb8e98_v2 ]]>
-</guid>
-<enclosure url="https://storage.horizon-pod.com/audio/ep164_main_stream.mp3" length="0" type="audio/mpeg"/>
-</item>
-</channel>
+  <channel>
+    <spotify:access>
+      <partner id="5YM2XVX9dX6Rz4g5NeCEDL"/>
+    </spotify:access>
+    <itunes:owner>
+      <itunes:name>Sample Spotify</itunes:name>
+    <itunes:email>tuongvule@gmail.com</itunes:email>
+    </itunes:owner>
+    <image>
+      <url>https://fastly.picsum.photos/id/433/640/640.jpg?hmac=U79VT_rP5FzTObH-IujtPeLM0vlx5Rw3WEeaw7nIIf4</url>
+      <title>Sample Spotify: Exploration and Insights</title>
+    </image>
+    <author>
+      <![CDATA[ Sample Spotify ]]>
+    </author>
+    <copyright>
+      <![CDATA[ © 2026 Sample Spotify ]]>
+    </copyright>
+    <language>
+      <![CDATA[ JP ]]>
+    </language>
+    <itunes:author>Horizon Podcast Studio</itunes:author>
+    <itunes:type>episodic</itunes:type>
+    <title>The Daily Horizon: Exploration and Insights</title>
+    <link>https://horizon-pod.com/shows/daily-horizon</link>
+    <description type="html">
+      <p>
+        <span>
+          For more information, visit:
+          <a href="https://horizon-pod.com/details">https://horizon-pod.com/details</a>
+        </span>
+      </p>
+      <p>Join our hosts as they explore daily life, modern technology, and global culture. Each episode brings a new perspective on how we interact with the world around us. Perfect for your morning commute or evening relaxation.</p>
+    </description>
+    <item>
+      <title>Episode 177: Modern Living Standards</title>
+      <dcterms:valid>start=2026-03-26T13:00:00+00:00;</dcterms:valid>
+      <description type="html">
+        <p>In this episode, we discuss the evolution of urban living and how digital tools are shaping our homes.</p>
+      </description>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">
+        <![CDATA[ auth_6355_gen_token_88bd19_v1 ]]>
+      </guid>
+      <enclosure url="https://storage.horizon-pod.com/audio/ep177_master_final.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 177: [Extended Cut]</title>
+      <spotify:access>
+        <entitlement name="paid"/>
+      </spotify:access>
+      <dcterms:valid>start=2026-03-26T13:00:00+00:00;</dcterms:valid>
+      <description type="html">
+      <p>Exclusive behind-the-scenes content and additional interviews for our premium subscribers.</p>
+      </description>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">
+      <![CDATA[ auth_9cd8_premium_key_7bdb_v1 ]]>
+      </guid>
+      <enclosure url="https://storage.horizon-pod.com/audio/ep177_bonus_ex.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 176: The Future of Remote Work</title>
+      <spotify:access>
+        <entitlement name="paid"/>
+      </spotify:access>
+      <dcterms:valid>start=2026-03-12T13:00:00+00:00;</dcterms:valid>
+      <description type="html">
+        <p>Exploring the pros and cons of the global shift towards distributed teams and remote productivity.</p>
+      </description>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">
+        <![CDATA[ auth_7f37_secure_id_28242601_v1 ]]>
+      </guid>
+      <enclosure url="https://storage.horizon-pod.com/audio/ep176_full_release.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 176: Culinary Journeys through Asia</title>
+      <spotify:access>
+        <entitlement name="paid"/>
+      </spotify:access>
+      <dcterms:valid>start=2026-02-26T13:00:00+00:00;</dcterms:valid>
+      <description type="html">
+        <p>A deep dive into the spices and techniques that define East Asian cuisine.</p>
+      </description>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">
+        <![CDATA[ auth_0274_data_node_5fb8e98_v1 ]]>
+      </guid>
+      <enclosure url="https://storage.horizon-pod.com/audio/ep176_main_stream.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>第164回</title>
+      <spotify:access>
+        <entitlement name="paid"/>
+      </spotify:access>
+      <dcterms:valid>start=2025-09-25T13:00:00+09:00;</dcterms:valid>
+      <description type="html">
+        <p>It could be worse! You could be in the economy.</p>
+      </description>
+      <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">
+        <![CDATA[ auth_0296_data_node_5fb8e98_v2 ]]>
+      </guid>
+      <enclosure url="https://storage.horizon-pod.com/audio/ep164_main_stream.mp3" length="0" type="audio/mpeg"/>
+    </item>
+  </channel>
 </rss>
