@@ -27,7 +27,20 @@
     <description type="html">&lt;p&gt;&lt;span&gt;番組の情報はこちら：&lt;a href=https://example.com/program/matsuia&gt;https://example.com/program/matsuia&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;鍵マークのエピソードを視聴する場合は、TestSystemPREMIUMサポーターの方は以下よりSpotifyとのアカウント連携をお願いします。URL：&lt;a href=https://example.com/settings&gt;連携リンク&amp;nbsp;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;
 Test Podcast tuongvuleのソロラジオ番組！tuongvuleの中にある様々な色をお届けしつつ、tuongvule自身も気づいていない新たな色をリスナーの皆さんと共に見つけていきます！&lt;/p&gt;</description>
 
-     
+    <item>
+      <title>第480回</title>
+      <spotify:access>
+        <entitlement name="paid"/>
+      </spotify:access>
+      <dcterms:valid>start=2026-03-25T13:00:00+09:00;</dcterms:valid>
+      <description type="html">&lt;p&gt;&lt;span&gt;番組の情報はこちら：&lt;a href=https://www.onsen.ag/program/matsui&gt;https://www.onsen.ag/program/matsui&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;鍵マークのエピソードを視聴する場合は、音泉PREMIUMサポーターの方は以下よりSpotifyとのアカウント連携をお願いします。URL：&lt;a href=https://www.onsen.ag/settings&gt;連携リンク&amp;nbsp;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">
+        <![CDATA[da04a02c-668b-4b9c-ba86-24e62ab9979f]]>
+      </guid>
+      <enclosure url="https://onsen-dl.sslcs.cdngc.net/radio/matsui251022vn8dFy6A-add.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    
     <item>
       <title>Test Episode 4_1</title>
       <dcterms:valid>start=2026-04-01T13:00:00+09:00;</dcterms:valid>
